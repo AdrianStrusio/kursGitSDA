@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 To jest nowy plik.txt
 
 Wpis na potrzeby testu
@@ -7,3 +8,5 @@ Wpis na potrzeby testu
 >>>>>>> parent of 1448c7c... Drugi komit zmiana pliku.txt
 
 Dodanie nowej eksperymentalnej funkcjonalności.
+=======
+>>>>>>> parent of 1448c7c... Drugi komit zmiana pliku.txt
